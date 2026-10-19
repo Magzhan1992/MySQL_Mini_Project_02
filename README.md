@@ -45,10 +45,10 @@ SELECT
 ГРАФ
 SUM
 AVG
-MIN / MAX
-GROUP BY
-HAVING
-ORDER BY
+МИН / МАКС
+ГРУППА ПО
+ИМЕЯ
+ЗАКАЗ
 LIMIT
 Subqueries
 INNER JOIN
